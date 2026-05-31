@@ -1,3 +1,6 @@
 I update some query in this script
 Hi Manoj
 Hello World...
+i update a new line
+hi 
+hello...
